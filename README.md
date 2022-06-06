@@ -18,14 +18,15 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Finland.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web & mobile applications and Blockchain.
-          I'm a developer with experience in building Smart Contract, Dapp and Bot for small and medium sized businesses. Whether you're trying to win work, list your            services or even create a whole project - I can help!
-          ~ I’m experienced in Smart Contract, React, Node.js and Python.
-          ~ I’ll fully project manage your brief from start to finish!
+          <div>I'm a developer with experience in building Smart Contract, Dapp and Bot for small and medium sized businesses. Whether you're trying to win work, list your            services or even create a whole project - I can help!</div>
+          <div>~ I’m experienced in Smart Contract, React, Node.js and Python.</div>
+          <div>~ I’ll fully project manage your brief from start to finish!</div>
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles on Medium.
 
+<div>
 My Technical Stack:
-
+</div>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
