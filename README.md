@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on Inovative and Creative Team or Company.
 - 📫 How to reach me ...
      Email: akimkorhonen7131@gmail.com
+     <br/>
      Phone: +358 9 2316 9386
+     <br/>
      Telegram: @ProDev7131
 
 <div id="header" align="center">
